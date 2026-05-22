@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "cwnotes",
+    "description": "",
+    "home_page_url": "https://cwnotes.com",
+    "feed_url": "https://cwnotes.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "cw"
+    },
+    "items": [
+    ]
+}
