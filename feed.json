@@ -9,5 +9,18 @@
         "name": "cw"
     },
     "items": [
+        {
+            "id": "https://cwnotes.com/testing-post.html",
+            "url": "https://cwnotes.com/testing-post.html",
+            "title": "Testing post",
+            "author": {
+                "name": "cw"
+            },
+            "tags": [
+                   "Notes"
+            ],
+            "date_published": "2026-05-24T14:50:10+08:00",
+            "date_modified": "2026-05-24T14:50:10+08:00"
+        }
     ]
 }
